@@ -1,4 +1,5 @@
 # BMI Calculator CLI
+![Screenshot of BMI CLI}(screenshot.png)
 A simple command-line Body Mass Index (BMI) calculator built using Node.js.
 ## 📌 Features
 - Prompts user for weight (kg) and height (meters)
